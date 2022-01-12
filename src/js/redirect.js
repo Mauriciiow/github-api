@@ -1,3 +1,3 @@
 window.onload = function () { 
-    window.location.href = '/src/index.html'
+    window.location.href = '/src/html/repository.html'
 }
