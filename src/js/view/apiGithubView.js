@@ -29,7 +29,12 @@ class apiView{
           
        })
        
-        
+      
+    }
+
+    remover(){
+        $('.list-group').remove()
+    
     }
 
    

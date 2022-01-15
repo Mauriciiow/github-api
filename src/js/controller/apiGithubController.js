@@ -20,4 +20,11 @@ class apiController{
        
         
     }
+    removeArr(){
+        this.arr.forEach(() => {
+            this.arr.splice(0, this.arr.length)
+        });
+        console.log(this.arr);
+       
+    }
 }
